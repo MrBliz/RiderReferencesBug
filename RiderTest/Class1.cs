@@ -14,4 +14,5 @@ namespace RiderTest
                 StatusCode = StatusCodes.Status500InternalServerError,
             };
         }
+    }
 }
