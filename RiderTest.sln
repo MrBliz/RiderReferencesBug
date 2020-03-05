@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiderTest", "RiderTest\RiderTest.csproj", "{48E50CF1-79A5-4D2E-823A-78183E9B9BBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyB", "AssemblyB\AssemblyB.csproj", "{D65AE902-A7F8-4F03-A8BB-61E34C82C561}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48E50CF1-79A5-4D2E-823A-78183E9B9BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E50CF1-79A5-4D2E-823A-78183E9B9BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E50CF1-79A5-4D2E-823A-78183E9B9BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E50CF1-79A5-4D2E-823A-78183E9B9BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D65AE902-A7F8-4F03-A8BB-61E34C82C561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D65AE902-A7F8-4F03-A8BB-61E34C82C561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D65AE902-A7F8-4F03-A8BB-61E34C82C561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D65AE902-A7F8-4F03-A8BB-61E34C82C561}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
